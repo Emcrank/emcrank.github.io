@@ -8,6 +8,6 @@
 - [Request Generator](https://github.com/Emcrank/RequestGenerator)
   
 ## Experiments
-- [NoddyFileWatcher]
+- [NoddyFileWatcher](https://github.com/Emcrank/NoddyFileWatcher)
 
 ## [Steal My Settings](https://github.com/Emcrank/SettingsFiles)
