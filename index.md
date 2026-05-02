@@ -1,4 +1,3 @@
-# Welcome to my Armoury
 
 ## Libraries
 - [Pipeliner.Net](https://github.com/Emcrank/Pipeliner.Net)
